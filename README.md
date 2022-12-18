@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaspal007
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning C++ and Web Development
+- 👀 I’m interested in Competitive Programming, Android Development, UI/UX designing
+- 🌱 I’m currently learning C++ and Android Development and also practice UI/UX designing
 - 📫 How to reach me Emailme: jaspalsinghgkp512@gmail.com
 
 <!---
