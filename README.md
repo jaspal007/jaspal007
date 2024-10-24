@@ -2,9 +2,8 @@
 - 👀 I’m interested in Competitive Programming, Full Stack Web/Android Development,
 - ⚙️ Technology and Tech Stack: Flutter, ReactJS, NodeJS, ExpressJS, NextJS, Mongoose, MongoDB, Google Firebase, Material3UI, SwiftUI
 - 📫 How to reach me
-    - Email(personal): jaspalsinghgkp512@gmail.com
-    - Email(institute): jaspals.ug21.cs@nitp.ac.in
-    - LinkedIn: https://www.linkedin.com/in/jaspal-singh-9b1574199/
+    - 📧 : jaspalsinghgkp512@gmail.com
+    - 🖇️ : https://www.linkedin.com/in/jaspal-singh-9b1574199/
 
 <!---
 jaspal007/jaspal007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
